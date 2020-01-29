@@ -33,6 +33,3 @@ XXX();
 ## License
 
 MIT © [qaraluch](https://github.com/qaraluch)
-# double-wf
-
-test repo

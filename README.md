@@ -14,7 +14,7 @@ Make sure the following requirements are installed:
 - Dependecy 2
 
 
-## Installation
+## :black_circle: Installation
 
 Install the module with:
 

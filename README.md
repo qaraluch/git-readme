@@ -22,7 +22,7 @@ Install the module with:
 npm install --save XXX
 ```
 
-## Usage
+## :black_circle: Usage
 
 ```
 const XXX = require('XXX');

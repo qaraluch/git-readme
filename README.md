@@ -6,7 +6,7 @@ Qaraluch's Yet Another Dotfiles Repo
 - Feature 2
 - And much more...
 
-## Prerequisites
+## :black_circle: Prerequisites
 
 Make sure the following requirements are installed:
 

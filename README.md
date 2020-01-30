@@ -6,7 +6,7 @@ Qaraluch's Yet Another Dotfiles Repo
 - Feature 2
 - And much more...
 
-## Prerequisites
+## :black_circle: Prerequisites
 
 Make sure the following requirements are installed:
 
@@ -14,7 +14,7 @@ Make sure the following requirements are installed:
 - Dependecy 2
 
 
-## Installation
+## :black_circle: Installation
 
 Install the module with:
 
@@ -22,7 +22,7 @@ Install the module with:
 npm install --save XXX
 ```
 
-## Usage
+## :black_circle: Usage
 
 ```
 const XXX = require('XXX');

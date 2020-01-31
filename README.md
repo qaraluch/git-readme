@@ -1,4 +1,10 @@
-:package: REPO-NAME
+<h1 align="center">:package: XXX</h1>
+
+<p align="center">
+ <b>Description...</b>
+</p>
+
+<br />
 
 Qaraluch's Yet Another Dotfiles Repo
 

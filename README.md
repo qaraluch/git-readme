@@ -36,7 +36,7 @@ npm install --save XXX
 
 ## :black_circle: Usage
 
-```
+```js
 const XXX = require('XXX');
 
 XXX();

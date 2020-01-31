@@ -4,6 +4,12 @@
  <b>Description...</b>
 </p>
 
+<p align="center">
+   <a href="https://opensource.org/licenses/mit-license.php">
+    <img alt="MIT Licence" src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" />
+  </a>
+</p>
+
 <br />
 
 Qaraluch's Yet Another Dotfiles Repo
